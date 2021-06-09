@@ -1,4 +1,4 @@
 Introduction:
 
 
-This is a crypto trading bot (WIP)
+This is a crypto trading bot (WIP) (WIP2)
