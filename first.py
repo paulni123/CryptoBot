@@ -1,2 +1,0 @@
-message = "ddd"
-print(message)
