@@ -1,3 +1,5 @@
 /.vscode
 notes
 ignore
+.env
+temp.py
